@@ -1,0 +1,10 @@
+Hi Fella,
+
+Please find the Server details below:
+
+IP Address: {0}
+Username: {1}
+Password: {2}
+
+Thanks & Regards,
+UiPath Bot
